@@ -32,6 +32,7 @@ entram por cima sem perder a configuração.
 | Versão | Mudança | Por quê |
 | --- | --- | --- |
 | painel.1 | build do fork no GitHub Actions, assinatura própria | APK reproduzível a partir do código |
+| painel.2 | tradução completa para português do Brasil (1.233 textos), escolhida sozinha quando o Android está em português | o upstream só tinha inglês e francês; candidata a pull request |
 
 Mudanças que servem a qualquer usuário (tradução, correções) devem voltar ao
 upstream como pull request.

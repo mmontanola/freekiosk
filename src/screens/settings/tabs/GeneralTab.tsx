@@ -308,6 +308,7 @@ const GeneralTab: React.FC<GeneralTabProps> = ({
           options={[
             { value: 'en', label: 'English' },
             { value: 'fr', label: 'Français' },
+            { value: 'pt', label: 'Português (Brasil)' },
           ]}
           value={language}
           onValueChange={(v) => onLanguageChange(v as SupportedLanguage)}
